@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Rohan 👋
 
-<!--
-**Rohanv007/Rohanv007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech student in Computer Science (Data Science), currently in my 2nd semester.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Learning C and C++
+- Building a strong foundation in programming and problem solving
+- Exploring Data Science step by step
+- Interested in real-world applications of tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills (so far)
+- C
+- C++
+- Basics of Data Structures
+- Problem Solving
+
+## 📚 Currently Learning
+- Data Science fundamentals
+- Python (upcoming / learning phase)
+- DSA (Data Structures & Algorithms)
+
+## 🎯 Goals
+- Become a skilled Software Development Engineer (SDE)
+- Work on meaningful real-world projects
+- Improve consistency in coding
+
+## 📌 What you'll find here
+- Practice codes
+- Small projects
+- Learning experiments
+- Notes and concepts
+
+⭐ *Still learning, still building.*
