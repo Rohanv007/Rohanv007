@@ -3,31 +3,38 @@
 I'm a B.Tech student in Computer Science (Data Science), currently in my 2nd semester.
 
 ## 🚀 About Me
-- Learning C and C++
-- Building a strong foundation in programming and problem solving
-- Exploring Data Science step by step
-- Interested in real-world applications of tech
+- Learning the MERN Stack (MongoDB, Express.js, React, Node.js)
+- Building full-stack web development skills
+- Exploring modern web technologies and real-world projects
+- Passionate about creating useful and scalable applications
 
-## 🛠️ Skills (so far)
-- C
-- C++
-- Basics of Data Structures
-- Problem Solving
+## 🛠️ Skills
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Basic Programming & Problem Solving
 
 ## 📚 Currently Learning
-- Data Science fundamentals
-- Python (upcoming / learning phase)
-- DSA (Data Structures & Algorithms)
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+- REST APIs
+- Full-Stack Web Development
 
 ## 🎯 Goals
-- Become a skilled Software Development Engineer (SDE)
-- Work on meaningful real-world projects
-- Improve consistency in coding
+- Become a skilled Full-Stack Developer
+- Master the MERN Stack
+- Build impactful real-world projects
+- Contribute to open-source projects
+- Continuously improve problem-solving and development skills
 
-## 📌 What you'll find here
-- Practice codes
-- Small projects
-- Learning experiments
-- Notes and concepts
+## 📌 What You'll Find Here
+- MERN Stack projects
+- Frontend and backend experiments
+- Learning notes and resources
+- Web development practice
+- Project showcases
 
-⭐ *Still learning, still building.*
+⭐ *Learning, building, and growing one project at a time.*
