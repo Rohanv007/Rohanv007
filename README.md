@@ -1,6 +1,6 @@
 # Hi, I'm Rohan 👋
 
-I'm a B.Tech student in Computer Science (Data Science), currently in my 2nd semester.
+I'm a B.Tech student in Computer Science (Data Science), currently in my 2nd year.
 
 ## 🚀 About Me
 - Learning the MERN Stack (MongoDB, Express.js, React, Node.js)
